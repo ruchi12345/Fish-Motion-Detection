@@ -3,7 +3,7 @@
 % 
 %
 % 
-% Project Title: Stock Market prediction using ANFIS
+% Project Title: Motion Detection of fishes
 % Publisher:  (http://www.researchinfinitesolutions.com/)
 % 
 % Developer: Ruchi Mehra (Member of Research Infinite Solutions llp)
