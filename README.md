@@ -2,7 +2,6 @@
 Fish-Motion-Detection folder contains the implementation of motion of fishes. Download the folder and run Main.m file. #Matlab scripting language is used for the implementation. 
 #open the script (Main.m) with matlab and click the button run.
 
-# you can get the output like this
 (1) Input 
 ![fish1](https://user-images.githubusercontent.com/10881750/46568315-351df800-c960-11e8-98d2-411ede8a1adf.PNG)
 (2) Output
